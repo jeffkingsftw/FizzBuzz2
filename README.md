@@ -13,7 +13,7 @@ Dependencies
 Installation instructions
 - Download and extract the .zip file
 - Import project (jdk_1.8.0)
-- Build the project with the Maven pom.xml file and run FizzBuzz<#>Test
+- Build the project with the Maven pom.xml file and run FizzBuzz2Test
 
 Program Guide
 - The program contains a FizzBuzz2 class which takes in 2 integers with its constructor.  The integers represent the range of the list for which the output is based on.  To generate the list, you can call the getOutputList() method to process the list and return a String representation.  You can also call setOutputList() and toString() if you want to generate the data and get the output separately.
